@@ -1,0 +1,53 @@
+html,.headers,h1,h2,h4,footer{
+    background-color: #BDCDD6;
+}
+
+a{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px !important;
+
+}
+.nav-link{
+    color: black;
+
+}
+ul{
+    margin-bottom: 0rem !important;
+}
+h1{
+    margin-bottom: 0rem !important;
+    padding-top: 50px;
+    text-align: center;
+}
+header{
+    background-color: #93BFCF;
+    margin-bottom: 0rem !important;
+
+}
+.nav-item{
+    background-color: #6096B4;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.webname{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 30px;
+}
+h1,h2{
+    font-family: 'Patrick Hand SC', cursive;
+}
+h1{
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+h2{
+    font-size: 34px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 0rem !important;
+}
+footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;}
